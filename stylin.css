@@ -1,0 +1,12 @@
+html, body {
+
+    min-height: 100%;
+}
+
+body
+{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://previews.123rf.com/images/melpomen/melpomen1602/melpomen160200375/53024316-businessman-drawing-e-learning-concept-on-blurred-abstract-background.jpg)
+}
+#intro{color:blue}
